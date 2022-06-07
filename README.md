@@ -21,3 +21,7 @@ Swap these with your Chrome extension's icons to see where Chrome uses each size
 ![48x48 icon](48.png?raw=true)
 - 128x128:
 ![128x128 icon](128.png?raw=true)
+
+### Example:
+
+![128x128 icon](example.png?raw=true)
